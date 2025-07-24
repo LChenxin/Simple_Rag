@@ -38,10 +38,6 @@ This tutorial is organized as a step-by-step journey, covering:
 
 ## 📌 To-Do & Roadmap
 
-This tutorial is just the starting point. Here are some areas I plan to explore or improve as part of my learning journey:
-
----
-
 ###  RAG System Enhancements
 
 - 🔄 **Rebuild the same pipeline using [LangChain](https://www.langchain.com/)**  
@@ -60,7 +56,7 @@ This tutorial is just the starting point. Here are some areas I plan to explore 
 
 ---
 
-### 🧪 Experiments & Prototypes
+###  Experiments & Prototypes
 
 -  Few-shot and zero-shot prompt tuning for better responses  
 -  Chunking strategy comparison: sliding window vs. sentence-level vs. fixed-size  
@@ -68,7 +64,7 @@ This tutorial is just the starting point. Here are some areas I plan to explore 
 
 ---
 
-### 🚀 Projectization
+###  Projectization
 
 - 💬 Turn the POC into a modular, reusable RAG framework  
 
